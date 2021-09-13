@@ -1,0 +1,23 @@
+#firstDiv {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 200px;
+  height: 600px;
+  background: dodgerblue;
+  box-shadow: 0 0 30px rgb(236, 30, 30);
+}
+.Button {
+  padding: 0.25em 0.75em;
+  text-align: center;
+  line-height: 1.1;
+  min-width: 10ch;
+  min-height: 44px;
+  background-color: burlywood;
+}
+.Button:hover,
+.Button:focus {
+  color: red;
+}
